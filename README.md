@@ -6,11 +6,6 @@ en "RatingBar". Elementen har olika "constaints" och "margins" så att de kan an
 hur man håller mobilen. "ImageView"-elementet innehåller en avatarbild, "button"-elementet har en
 bakgrundsfärg av färgen mörk champagne (se Kodsegment och skärmdumpar nedan). **
 
-_Du kan ta bort all text som finns sedan tidigare_.
-
-## Följande grundsyn gäller dugga-svar:
-
-
 ```
  <Button
         android:id="@+id/button"
@@ -52,8 +47,6 @@ _Du kan ta bort all text som finns sedan tidigare_.
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 ```
-
-Bilder läggs i samma mapp som markdown-filen.
 
 ![](Portrait_prototype.png)
 ![](Landscape_prototype.png)
