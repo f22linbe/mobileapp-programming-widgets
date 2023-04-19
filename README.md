@@ -5,6 +5,8 @@
 en "RatingBar". Elementen har olika "constaints" och "margins" så att de kan anpassas beroende på
 hur man håller mobilen. "ImageView"-elementet innehåller en avatarbild, "button"-elementet har en
 bakgrundsfärg av färgen mörk champagne (se Kodsegment och skärmdumpar nedan). **
+![](Portrait_prototype.png)
+![](Landscape_prototype.png)
 
 ```
  <Button
@@ -48,5 +50,4 @@ bakgrundsfärg av färgen mörk champagne (se Kodsegment och skärmdumpar nedan)
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 ```
 
-![](Portrait_prototype.png)
-![](Landscape_prototype.png)
+
