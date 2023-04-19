@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Widgets</string>
     <string name="button">Knapp</string>
+    <string name="avatar_text">Avatar</string>
 </resources>
